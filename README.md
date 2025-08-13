@@ -1,2 +1,4 @@
 # AllTheModsThatICouldFindModpackRussianEdition
-Сборка для BTA от ToufouMaster с обновлёнными модами.\nhttps://github.com/ToufouMaster/AllTheModsThatICouldFindModpack
+Сборка для BTA от ToufouMaster с обновлёнными модами.
+
+https://github.com/ToufouMaster/AllTheModsThatICouldFindModpack
